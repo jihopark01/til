@@ -1,0 +1,14 @@
+1. 앞으로 git 프로젝트로 만들고 싶은것 
+ 금융이랑 관련된 프로젝트 
+
+2. 1주차 주요 개념 키워드 적어보기
+- 버전 관리 : 프로젝트 상태가 바뀌는 것을 관히 
+- git initialize : 컴퓨터에 있는 프로젝트를 Git을 통해 관리하는 프로젝트로 만드는 것
+- commit : 현재 프로젝트의 상태를 저장하는 것 ; 누가 언제 커밋했는지 알 수 있음 ; commit message를 통해 어떤 작업을 했는지 메시지를 남길 수 있음 
+- add(a.k.a. staging) : 여러 파일 중에 commit할 파일을 선택 가능 
+- commit history: commit한 순서대로 리스트가 뜸 
+- repo: Git을 통해 관히되는 프로젝트 ; local repository와 remote repository(ex. Github)로 분류 가능 
+- tracking : 로컬 repo와 원격 repo를 연결하는 것 
+- push : 로컬 repo에 커밋한 내용을 원격 repo에 밀어넣기
+- pull : 원격 repo의 커밋한 내용을 로컬 repo에 당겨오기 
+- clone : 원격 repo를 내 컴퓨터에 다운로드하듯이 가져와서 쓰기
