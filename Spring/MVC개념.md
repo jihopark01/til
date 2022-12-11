@@ -9,6 +9,7 @@ Spring MVC란 Front Controller Pattern에 기초한 웹 MVC 프레임워크이�
         - HandlerAdapter: 사용자의 request를 처리해줄 Controller를 호출하고 결과를 받아온다.
         - ViewResolver: 사용자의 요청에 적합한 View를 반환해서 결과를 보여줄 수 있게 한다.
 
+
 - Spring MVC의 동작 원리
 
 
